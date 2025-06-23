@@ -5,7 +5,7 @@
 import os
 from pydub import AudioSegment
 
-# Folder paths
+# Folder paths, you need to add them by yourself in the project.
 source_folder = os.path.expanduser("./z")
 output_folder = os.path.expanduser("./do")
 
